@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/Class-Geek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_/code01_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group01_rwLock/ReadWriteLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group02_queue/BlockingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group02_queue/SynchronousQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group03_pool/ThreadPoolDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group03_pool/ThreadPoolDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group04_function/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group04_function/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group04_function/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group05_stream/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class01_JUC/src/main/java/com/ajie/day02/group05_stream/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/JavaSE.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code01_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code02_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code03_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/code01_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/code02_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchitectStudy_imooc/ArchitectStudy_imooc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArchitectStudy_imooc/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_/code01_.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Ajie_Study/Algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ajie_Study/ArchitectStudy_imooc&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.27289546&quot;,
@@ -83,7 +75,7 @@
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BlockingDemo">
+  <component name="RunManager" selected="Application.code03_">
     <configuration name="BlockingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ajie.day02.group02_queue.BlockingDemo" />
       <module name="class01_JUC" />
@@ -110,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnSafeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ajie.day01.pro4_unsafeCollection.UnSafeList" />
-      <module name="class01_JUC" />
+    <configuration name="code01_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code01_" />
+      <module name="Class-Geek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ajie.day01.pro4_unsafeCollection.*" />
+          <option name="PATTERN" value="class01_.group01_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnSafeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ajie.day01.pro4_unsafeCollection.UnSafeSet" />
-      <module name="class01_JUC" />
+    <configuration name="code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code02_" />
+      <module name="Class-Geek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ajie.day01.pro4_unsafeCollection.*" />
+          <option name="PATTERN" value="class01_.group01_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsafeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ajie.day01.pro4_unsafeCollection.UnsafeMap" />
-      <module name="class01_JUC" />
+    <configuration name="code03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code03_" />
+      <module name="Class-Geek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ajie.day01.pro4_unsafeCollection.*" />
+          <option name="PATTERN" value="class01_.group01_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code03_" />
+        <item itemvalue="Application.code02_" />
+        <item itemvalue="Application.code01_" />
         <item itemvalue="Application.BlockingDemo" />
         <item itemvalue="Application.ReadWriteLockDemo" />
-        <item itemvalue="Application.UnsafeMap" />
-        <item itemvalue="Application.UnSafeSet" />
-        <item itemvalue="Application.UnSafeList" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +167,9 @@
       <workItem from="1672974183288" duration="3359000" />
       <workItem from="1672982031357" duration="3037000" />
       <workItem from="1673019052988" duration="4725000" />
-      <workItem from="1673069420982" duration="1161000" />
+      <workItem from="1673069420982" duration="2161000" />
+      <workItem from="1673109126200" duration="167000" />
+      <workItem from="1673137006071" duration="2856000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -191,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672977367651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JUC 第二天（readWriteLock，阻塞队列，同步队列，线程池：三大方法，七大参数，四种拒绝策略，四个函数式接口，stream流式计算，分支合并思想，异步回调）">
+      <created>1673070857436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673070857436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +212,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="导入设计模式" />
     <MESSAGE value="JUC 第一天（synchronized Lock 实现线程同步，线程通信生产者消费者问题模型，八锁问题，不安全的集合类）" />
-    <option name="LAST_COMMIT_MESSAGE" value="JUC 第一天（synchronized Lock 实现线程同步，线程通信生产者消费者问题模型，八锁问题，不安全的集合类）" />
+    <MESSAGE value="JUC 第二天（readWriteLock，阻塞队列，同步队列，线程池：三大方法，七大参数，四种拒绝策略，四个函数式接口，stream流式计算，分支合并思想，异步回调）" />
+    <option name="LAST_COMMIT_MESSAGE" value="JUC 第二天（readWriteLock，阻塞队列，同步队列，线程池：三大方法，七大参数，四种拒绝策略，四个函数式接口，stream流式计算，分支合并思想，异步回调）" />
   </component>
 </project>
