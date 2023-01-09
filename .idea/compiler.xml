@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="class01_JUC" />
         <module name="AdvancedProgramming" />
+        <module name="Interview" />
       </profile>
     </annotationProcessing>
   </component>

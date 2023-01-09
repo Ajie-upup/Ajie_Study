@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/quarter01-first.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/com/ajie/class01_Complexity/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/com/ajie/class02_DynamicArray/MyArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/PayGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/PayGatewayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/ProductVideoOder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/ProductVipOder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/OldModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/TargetModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,28 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/Ajie_Study/DataStructure/quarter01-first",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.27289546",
-    "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ajie_Study/DataStructure/quarter01-first&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27289546&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Debugger_Data_Views_Java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Ajie_Study\Architect_Study-huang\class01_JUC\src\main\java\com\ajie\day01" />
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code03_">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BlockingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ajie.day02.group02_queue.BlockingDemo" />
       <module name="class01_JUC" />
@@ -83,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ajie.day02.group01_rwLock.ReadWriteLockDemo" />
-      <module name="class01_JUC" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode05_Adapter.type02_ClassAdapter.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ajie.day02.group01_rwLock.*" />
+          <option name="PATTERN" value="Mode05_Adapter.type02_ClassAdapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.code03_" />
         <item itemvalue="Application.code02_" />
         <item itemvalue="Application.code01_" />
         <item itemvalue="Application.BlockingDemo" />
-        <item itemvalue="Application.ReadWriteLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +172,9 @@
       <workItem from="1673069420982" duration="2161000" />
       <workItem from="1673109126200" duration="167000" />
       <workItem from="1673137006071" duration="4289000" />
-      <workItem from="1673150453775" duration="2171000" />
+      <workItem from="1673150453775" duration="2339000" />
+      <workItem from="1673188741950" duration="2580000" />
+      <workItem from="1673256635843" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -194,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673140038651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="数据结构：复杂度，动态数组实现">
+      <created>1673172152352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673172152352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +233,7 @@
     <MESSAGE value="JUC 第一天（synchronized Lock 实现线程同步，线程通信生产者消费者问题模型，八锁问题，不安全的集合类）" />
     <MESSAGE value="JUC 第二天（readWriteLock，阻塞队列，同步队列，线程池：三大方法，七大参数，四种拒绝策略，四个函数式接口，stream流式计算，分支合并思想，异步回调）" />
     <MESSAGE value="leetcode：合并两个有序数组，删除有序数组中的重复项，移动零，反转链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode：合并两个有序数组，删除有序数组中的重复项，移动零，反转链表" />
+    <MESSAGE value="数据结构：复杂度，动态数组实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据结构：复杂度，动态数组实现" />
   </component>
 </project>
