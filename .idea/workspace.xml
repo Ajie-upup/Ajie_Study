@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/PayGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/PayGatewayAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/ProductVideoOder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type01_InterfaceAdapter/ProductVipOder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/OldModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode05_Adapter/type02_ClassAdapter/TargetModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/BlueColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/HWPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/RedColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/SXPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/YellowColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,14 +73,17 @@
       <recent name="E:\Ajie_Study\Architect_Study-huang\class01_JUC\src\main\java\com\ajie\day01" />
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Mode06_Bridging" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="BlockingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ajie.day02.group02_queue.BlockingDemo" />
-      <module name="class01_JUC" />
+  <component name="RunManager" selected="Application.Mode06_Bridging.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode05_Adapter.type02_ClassAdapter.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ajie.day02.group02_queue.*" />
+          <option name="PATTERN" value="Mode05_Adapter.type02_ClassAdapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode05_Adapter.type02_ClassAdapter.Main" />
+    <configuration name="Mode06_Bridging.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode06_Bridging.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mode05_Adapter.type02_ClassAdapter.*" />
+          <option name="PATTERN" value="Mode06_Bridging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode06_Bridging.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.code03_" />
         <item itemvalue="Application.code02_" />
         <item itemvalue="Application.code01_" />
-        <item itemvalue="Application.BlockingDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +174,7 @@
       <workItem from="1673137006071" duration="4289000" />
       <workItem from="1673150453775" duration="2339000" />
       <workItem from="1673188741950" duration="2580000" />
-      <workItem from="1673256635843" duration="2127000" />
+      <workItem from="1673256635843" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673172152352</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="设计模式：适配器模式(接口适配器，类的适配器)">
+      <created>1673258832264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673258832264</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +241,7 @@
     <MESSAGE value="JUC 第二天（readWriteLock，阻塞队列，同步队列，线程池：三大方法，七大参数，四种拒绝策略，四个函数式接口，stream流式计算，分支合并思想，异步回调）" />
     <MESSAGE value="leetcode：合并两个有序数组，删除有序数组中的重复项，移动零，反转链表" />
     <MESSAGE value="数据结构：复杂度，动态数组实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="数据结构：复杂度，动态数组实现" />
+    <MESSAGE value="设计模式：适配器模式(接口适配器，类的适配器)" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：适配器模式(接口适配器，类的适配器)" />
   </component>
 </project>
