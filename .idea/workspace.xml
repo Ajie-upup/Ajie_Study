@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Floder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/BigBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/BikeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/RSCBikeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/SmallBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode08_Decorator/SuonaBikeDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,7 @@
       <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode07_Composite.Main">
+  <component name="RunManager" selected="Application.Mode08_Decorator.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode05_Adapter.type02_ClassAdapter.Main" />
       <module name="DesignMode" />
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code02_" />
-      <module name="Class-Geek" />
+    <configuration name="Mode08_Decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode08_Decorator.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_.group01_array.*" />
+          <option name="PATTERN" value="Mode08_Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode08_Decorator.Main" />
         <item itemvalue="Application.Mode07_Composite.Main" />
         <item itemvalue="Application.Mode06_Bridging.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.code03_" />
-        <item itemvalue="Application.code02_" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +175,7 @@
       <workItem from="1673188741950" duration="2580000" />
       <workItem from="1673256635843" duration="3780000" />
       <workItem from="1673260556073" duration="57000" />
-      <workItem from="1673480697132" duration="1306000" />
+      <workItem from="1673480697132" duration="3105000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -223,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673260376671</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="设计模式：组合模式(参考文件层次实现)">
+      <created>1673482172516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673482172516</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +258,7 @@
     <MESSAGE value="数据结构：复杂度，动态数组实现" />
     <MESSAGE value="设计模式：适配器模式(接口适配器，类的适配器)" />
     <MESSAGE value="设计模式：桥接模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：桥接模式" />
+    <MESSAGE value="设计模式：组合模式(参考文件层次实现)" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：组合模式(参考文件层次实现)" />
   </component>
 </project>
