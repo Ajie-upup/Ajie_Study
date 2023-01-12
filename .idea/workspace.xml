@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/BlueColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/HWPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/RedColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/SXPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode06_Bridging/YellowColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Floder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode07_Composite/Root.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +73,7 @@
       <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode06_Bridging.Main">
+  <component name="RunManager" selected="Application.Mode07_Composite.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode05_Adapter.type02_ClassAdapter.Main" />
       <module name="DesignMode" />
@@ -104,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code01_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code01_" />
-      <module name="Class-Geek" />
+    <configuration name="Mode07_Composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode07_Composite.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_.group01_array.*" />
+          <option name="PATTERN" value="Mode07_Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode07_Composite.Main" />
         <item itemvalue="Application.Mode06_Bridging.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.code03_" />
         <item itemvalue="Application.code02_" />
-        <item itemvalue="Application.code01_" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +170,9 @@
       <workItem from="1673137006071" duration="4289000" />
       <workItem from="1673150453775" duration="2339000" />
       <workItem from="1673188741950" duration="2580000" />
-      <workItem from="1673256635843" duration="3650000" />
+      <workItem from="1673256635843" duration="3780000" />
+      <workItem from="1673260556073" duration="57000" />
+      <workItem from="1673480697132" duration="1306000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -218,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673258832264</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="设计模式：桥接模式">
+      <created>1673260376671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673260376671</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +247,7 @@
     <MESSAGE value="leetcode：合并两个有序数组，删除有序数组中的重复项，移动零，反转链表" />
     <MESSAGE value="数据结构：复杂度，动态数组实现" />
     <MESSAGE value="设计模式：适配器模式(接口适配器，类的适配器)" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：适配器模式(接口适配器，类的适配器)" />
+    <MESSAGE value="设计模式：桥接模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：桥接模式" />
   </component>
 </project>
