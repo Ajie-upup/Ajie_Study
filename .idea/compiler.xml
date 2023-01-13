@@ -7,10 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="class01_JUC" />
+        <module name="class03_SpringBoot" />
         <module name="AdvancedProgramming" />
+        <module name="class01_JUC" />
+        <module name="code01_HelloSpring" />
         <module name="Interview" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="code01_HelloSpring" options="-parameters" />
+    </option>
   </component>
 </project>
