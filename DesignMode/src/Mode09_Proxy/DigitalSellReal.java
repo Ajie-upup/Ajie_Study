@@ -7,7 +7,6 @@ package Mode09_Proxy;
  * @Date: 2023/1/13
  */
 public class DigitalSellReal implements DigitalSell {
-
     @Override
     public void sell() {
         System.out.println("卖手机");
