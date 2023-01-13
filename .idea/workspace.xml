@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/Imessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/MailMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/MessageFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/SmsMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode10_Facade/WeChatMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/CloudWebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/ConcreteWebSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/WebSiteFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignMode/src/Mode09_Proxy/DigitalSellReal.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignMode/src/Mode09_Proxy/DigitalSellReal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,16 +84,17 @@
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Mode10_Facade" />
       <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode10_Facade.Main">
-    <configuration name="Mode06_Bridging.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode06_Bridging.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode11_FlyWeight.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mode06_Bridging.*" />
+          <option name="PATTERN" value="Mode11_FlyWeight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mode10_Facade.Main" />
         <item itemvalue="Application.Mode09_Proxy.Main" />
         <item itemvalue="Application.Mode08_Decorator.Main" />
         <item itemvalue="Application.Mode07_Composite.Main" />
-        <item itemvalue="Application.Mode06_Bridging.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +207,7 @@
       <workItem from="1673537417983" duration="127000" />
       <workItem from="1673549775255" duration="714000" />
       <workItem from="1673584753680" duration="2886000" />
-      <workItem from="1673588151813" duration="308000" />
+      <workItem from="1673588151813" duration="2039000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -287,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673587673900</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）">
+      <created>1673588513018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673588513018</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +322,8 @@
     <MESSAGE value="设计模式：装饰器模式(参考自行车添加组件实现)" />
     <MESSAGE value="Spring入门：pom文件详解，启动类注解探究" />
     <MESSAGE value="设计模式：代理模式（参考厂家和零售商）" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：代理模式（参考厂家和零售商）" />
+    <MESSAGE value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
