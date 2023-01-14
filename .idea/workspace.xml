@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/CloudWebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/ConcreteWebSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode11_FlyWeight/WebSiteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/DiscountActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/NormalActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/ProductionOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/PromotionContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode12_Strategy/VoucherActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,26 +90,13 @@
       <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Mode12_Strategy.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode11_FlyWeight.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Mode11_FlyWeight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mode07_Composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode07_Composite.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mode07_Composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,6 +143,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mode12_Strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode12_Strategy.Main" />
+      <module name="DesignMode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mode12_Strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code01HelloSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="code01_HelloSpring" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ajie.code01_hellospring.Code01HelloSpringApplication" />
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode12_Strategy.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mode10_Facade.Main" />
         <item itemvalue="Application.Mode09_Proxy.Main" />
         <item itemvalue="Application.Mode08_Decorator.Main" />
-        <item itemvalue="Application.Mode07_Composite.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +209,10 @@
       <workItem from="1673537417983" duration="127000" />
       <workItem from="1673549775255" duration="714000" />
       <workItem from="1673584753680" duration="2886000" />
-      <workItem from="1673588151813" duration="2039000" />
+      <workItem from="1673588151813" duration="2362000" />
+      <workItem from="1673591032029" duration="596000" />
+      <workItem from="1673619161116" duration="142000" />
+      <workItem from="1673661826779" duration="1906000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -293,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673588513018</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="设计模式：享元模式（参考外包实现网站与公司的映射，参考池化技术）">
+      <created>1673590503674</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673590503674</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +335,8 @@
     <MESSAGE value="Spring入门：pom文件详解，启动类注解探究" />
     <MESSAGE value="设计模式：代理模式（参考厂家和零售商）" />
     <MESSAGE value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
+    <MESSAGE value="设计模式：享元模式（参考外包实现网站与公司的映射，参考池化技术）" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：享元模式（参考外包实现网站与公司的映射，参考池化技术）" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
