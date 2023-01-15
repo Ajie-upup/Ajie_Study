@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code01_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code02_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/FirstRiskControllerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/RequestType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/RiskControllerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/SecondRiskControllerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/ThirdRiskControllerManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -82,19 +87,20 @@
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Mode15_Chain" />
       <recent name="Mode14_Observer" />
       <recent name="Mode13_Template" />
       <recent name="Mode10_Facade" />
       <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code02_">
-    <configuration name="Mode12_Strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode12_Strategy.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode15_Chain.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mode12_Strategy.*" />
+          <option name="PATTERN" value="Mode15_Chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.code02_" />
         <item itemvalue="Application.code01_" />
         <item itemvalue="Application.Mode14_Observer.Main" />
         <item itemvalue="Application.Mode13_Template.Main" />
-        <item itemvalue="Application.Mode12_Strategy.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +218,8 @@
       <workItem from="1673619161116" duration="142000" />
       <workItem from="1673661826779" duration="4794000" />
       <workItem from="1673667466246" duration="3000" />
-      <workItem from="1673703644299" duration="4705000" />
+      <workItem from="1673703644299" duration="5294000" />
+      <workItem from="1673741238959" duration="1611000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -326,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673666472465</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)">
+      <created>1673708488960</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673708488960</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +374,8 @@
     <MESSAGE value="设计模式：策略模式（参考电商价格优惠折扣策略）" />
     <MESSAGE value="设计模式：模板模式（参考项目开发流程定义大致流程，交由各具体模块实现）" />
     <MESSAGE value="设计模式：观察者模式（参考消息发送，接收响应）" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：观察者模式（参考消息发送，接收响应）" />
+    <MESSAGE value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
