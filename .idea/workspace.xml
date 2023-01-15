@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/FirstRiskControllerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/RequestType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/RiskControllerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/SecondRiskControllerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode15_Chain/ThirdRiskControllerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/AppInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/ConditionReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/CoolCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/OffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/OnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode16_Command/WarmCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,14 +88,14 @@
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Mode16_Command" />
       <recent name="Mode15_Chain" />
       <recent name="Mode14_Observer" />
       <recent name="Mode13_Template" />
       <recent name="Mode10_Facade" />
-      <recent name="Mode06_Bridging" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Mode16_Command.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode15_Chain.Main" />
       <module name="DesignMode" />
@@ -108,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mode13_Template.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode13_Template.Main" />
+    <configuration name="Mode14_Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode14_Observer.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mode13_Template.*" />
+          <option name="PATTERN" value="Mode14_Observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mode14_Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode14_Observer.Main" />
+    <configuration name="Mode16_Command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode16_Command.Main" />
       <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mode14_Observer.*" />
+          <option name="PATTERN" value="Mode16_Command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode16_Command.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.code02_" />
         <item itemvalue="Application.code01_" />
         <item itemvalue="Application.Mode14_Observer.Main" />
-        <item itemvalue="Application.Mode13_Template.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,7 @@
       <workItem from="1673661826779" duration="4794000" />
       <workItem from="1673667466246" duration="3000" />
       <workItem from="1673703644299" duration="5294000" />
-      <workItem from="1673741238959" duration="1611000" />
+      <workItem from="1673741238959" duration="3036000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -340,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673708488960</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="设计模式：责任链模式(模拟风险防控级别，参考日志级别)">
+      <created>1673743211133</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673743211133</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +383,8 @@
     <MESSAGE value="设计模式：模板模式（参考项目开发流程定义大致流程，交由各具体模块实现）" />
     <MESSAGE value="设计模式：观察者模式（参考消息发送，接收响应）" />
     <MESSAGE value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
+    <MESSAGE value="设计模式：责任链模式(模拟风险防控级别，参考日志级别)" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：责任链模式(模拟风险防控级别，参考日志级别)" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
