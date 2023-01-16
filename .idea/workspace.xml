@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode17_Iterator/ConcreteMyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode17_Iterator/ICollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode17_Iterator/MyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleMementoCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleMessageMemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleOriginator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +91,7 @@
       <recent name="Mode10_Facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode17_Iterator.Main">
+  <component name="RunManager" selected="Application.Mode18_Memento.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode15_Chain.Main" />
       <module name="DesignMode" />
@@ -130,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code01_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code01_" />
-      <module name="Class-Geek" />
+    <configuration name="Mode18_Memento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode18_Memento.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="Mode18_Memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode18_Memento.Main" />
         <item itemvalue="Application.Mode17_Iterator.Main" />
         <item itemvalue="Application.Mode16_Command.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.code02_" />
-        <item itemvalue="Application.code01_" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +216,8 @@
       <workItem from="1673661826779" duration="4794000" />
       <workItem from="1673667466246" duration="3000" />
       <workItem from="1673703644299" duration="5294000" />
-      <workItem from="1673741238959" duration="4333000" />
+      <workItem from="1673741238959" duration="5325000" />
+      <workItem from="1673793267926" duration="2826000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -350,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673744744335</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)">
+      <created>1673746150875</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673746150875</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +396,8 @@
     <MESSAGE value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
     <MESSAGE value="设计模式：责任链模式(模拟风险防控级别，参考日志级别)" />
     <MESSAGE value="设计模式：命令模式(模拟只能家居命令调用)" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：命令模式(模拟只能家居命令调用)" />
+    <MESSAGE value="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
