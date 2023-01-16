@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleMementoCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleMessageMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode18_Memento/RoleOriginator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/NewOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/OrderContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/PayOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/SendOrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignMode/src/Mode19_State/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -84,14 +86,14 @@
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Mode19_State" />
       <recent name="Mode16_Command" />
       <recent name="Mode15_Chain" />
       <recent name="Mode14_Observer" />
       <recent name="Mode13_Template" />
-      <recent name="Mode10_Facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode18_Memento.Main">
+  <component name="RunManager" selected="Application.Mode19_State.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode15_Chain.Main" />
       <module name="DesignMode" />
@@ -144,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code02_" />
-      <module name="Class-Geek" />
+    <configuration name="Mode19_State.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mode19_State.Main" />
+      <module name="DesignMode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="Mode19_State.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mode19_State.Main" />
         <item itemvalue="Application.Mode18_Memento.Main" />
         <item itemvalue="Application.Mode17_Iterator.Main" />
         <item itemvalue="Application.Mode16_Command.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.code02_" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +219,7 @@
       <workItem from="1673667466246" duration="3000" />
       <workItem from="1673703644299" duration="5294000" />
       <workItem from="1673741238959" duration="5325000" />
-      <workItem from="1673793267926" duration="2826000" />
+      <workItem from="1673793267926" duration="3799000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -359,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673746150875</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="设计模式：备忘录模式(快照模式，模拟游戏角色信息版本管理)">
+      <created>1673838152559</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673838152559</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,7 +406,8 @@
     <MESSAGE value="设计模式：责任链模式(模拟风险防控级别，参考日志级别)" />
     <MESSAGE value="设计模式：命令模式(模拟只能家居命令调用)" />
     <MESSAGE value="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)" />
+    <MESSAGE value="设计模式：备忘录模式(快照模式，模拟游戏角色信息版本管理)" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式：备忘录模式(快照模式，模拟游戏角色信息版本管理)" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
