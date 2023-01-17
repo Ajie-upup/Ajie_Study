@@ -7,13 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="class03_SpringBoot" />
-        <module name="AdvancedProgramming" />
         <module name="class01_JUC" />
         <module name="code01_HelloSpring" />
+        <module name="situation01" />
         <module name="Interview" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="class03_SpringBoot" target="1.8" />
+      <module name="code01_HelloSpring" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

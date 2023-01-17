@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="" />
+    <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/cart/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/cart/Sku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/cart/SkuCategoryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/cart/SkuPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/cart/CartServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/code01_HelloSpring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedProgramming/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedProgramming/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArchitectStudy_imooc/ArchitectStudy_imooc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ArchitectStudy_imooc/ArchitectStudy_imooc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/src/main/java/com/ajie/SpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/src/main/java/com/ajie/controller/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/src/test/java/com/ajie/Code01HelloSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Architect_Study-huang/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,33 +67,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Ajie_Study/DataStructure/quarter01-first&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.27289546&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;0d5b71bcd5588d4a05cfb713c0096e02&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
+    "go.import.settings.migrated": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/Ajie_Study/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/cart",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.27289546",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.run.dashboard.notification": "false",
+    "spring.configuration.checksum": "0d5b71bcd5588d4a05cfb713c0096e02"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ajie_Study\AdvancedProgramming\situation01\src\test\java\com\ajie\lamda\cart" />
+      <recent name="E:\Ajie_Study\AdvancedProgramming\situation01\src\main\java\copm\ajie\lamda\cart" />
       <recent name="E:\Ajie_Study\Architect_Study-huang\class01_JUC\src\main\java\com\ajie\day01" />
       <recent name="E:\Ajie_Study\DesignMode\src" />
     </key>
@@ -85,59 +107,7 @@
       <recent name="Mode13_Template" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mode19_State.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode15_Chain.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mode15_Chain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mode16_Command.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode16_Command.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mode16_Command.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mode17_Iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode17_Iterator.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mode17_Iterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mode18_Memento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Mode18_Memento.Main" />
-      <module name="DesignMode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Mode18_Memento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CartServiceTest.filterSkuTest">
     <configuration name="Mode19_State.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mode19_State.Main" />
       <module name="DesignMode" />
@@ -147,6 +117,70 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceTest.filterElectronicsSkus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="situation01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.lamda.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ajie.lamda.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.ajie.lamda.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="filterElectronicsSkus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceTest.filterSkuByCategoryOrPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="situation01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.lamda.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ajie.lamda.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.ajie.lamda.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="filterSkuByCategoryOrPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceTest.filterSkuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="situation01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.lamda.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ajie.lamda.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.ajie.lamda.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="filterSkuTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceTest.filterSkusByCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="situation01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ajie.lamda.cart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ajie.lamda.cart" />
+      <option name="MAIN_CLASS_NAME" value="com.ajie.lamda.cart.CartServiceTest" />
+      <option name="METHOD_NAME" value="filterSkusByCategory" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CartServiceTest.filterSkuTest" />
+        <item itemvalue="JUnit.CartServiceTest.filterSkuByCategoryOrPrice" />
+        <item itemvalue="JUnit.CartServiceTest.filterSkusByCategory" />
+        <item itemvalue="JUnit.CartServiceTest.filterElectronicsSkus" />
         <item itemvalue="Application.Mode19_State.Main" />
-        <item itemvalue="Application.Mode18_Memento.Main" />
-        <item itemvalue="Application.Mode17_Iterator.Main" />
-        <item itemvalue="Application.Mode16_Command.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +245,8 @@
       <workItem from="1673667466246" duration="3000" />
       <workItem from="1673703644299" duration="5294000" />
       <workItem from="1673741238959" duration="5325000" />
-      <workItem from="1673793267926" duration="4332000" />
+      <workItem from="1673793267926" duration="5048000" />
+      <workItem from="1673915769968" duration="3732000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -367,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673839144018</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="设计模式完结">
+      <created>1673839636372</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673839636372</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +449,8 @@
     <MESSAGE value="设计模式：迭代器模式(模拟自定义List集合容器和迭代器)" />
     <MESSAGE value="设计模式：备忘录模式(快照模式，模拟游戏角色信息版本管理)" />
     <MESSAGE value="设计模式：状态模式(模拟商家送货流程，根据不同的状态，做出不同的响应)" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式：状态模式(模拟商家送货流程，根据不同的状态，做出不同的响应)" />
+    <MESSAGE value="设计模式完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式完结" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
