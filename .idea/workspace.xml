@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/class02_flie/FileConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/main/java/copm/ajie/lamda/class02_flie/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/class02_file/FileServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/class02_file/MethodReferenceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
     "go.import.settings.migrated": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "E:/Ajie_Study/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/cart",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.27289546",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -234,7 +232,7 @@
       <workItem from="1673703644299" duration="5294000" />
       <workItem from="1673741238959" duration="5325000" />
       <workItem from="1673793267926" duration="5048000" />
-      <workItem from="1673915769968" duration="5230000" />
+      <workItem from="1673915769968" duration="6536000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -404,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673919618856</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Java8 高级特性学习：定义函数式接口读取本地文件，实现业务逻辑">
+      <created>1673921825394</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673921825394</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +451,8 @@
     <MESSAGE value="设计模式：状态模式(模拟商家送货流程，根据不同的状态，做出不同的响应)" />
     <MESSAGE value="设计模式完结" />
     <MESSAGE value="Java8 高级特性学习：通过商品购物车案例实现不同条件的筛选引出lamda表达式，函数式接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java8 高级特性学习：通过商品购物车案例实现不同条件的筛选引出lamda表达式，函数式接口" />
+    <MESSAGE value="Java8 高级特性学习：定义函数式接口读取本地文件，实现业务逻辑" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java8 高级特性学习：定义函数式接口读取本地文件，实现业务逻辑" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
