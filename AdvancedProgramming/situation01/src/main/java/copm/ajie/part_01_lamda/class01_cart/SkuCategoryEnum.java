@@ -1,4 +1,4 @@
-package copm.ajie.lamda.cart;
+package copm.ajie.part_01_lamda.class01_cart;
 
 /**
  * 商品类型枚举类
@@ -27,4 +27,9 @@ public enum SkuCategoryEnum {
         this.code = code;
         this.name = name;
     }
+
+    //????
+//    public String getName() {
+//        return name;
+//    }
 }

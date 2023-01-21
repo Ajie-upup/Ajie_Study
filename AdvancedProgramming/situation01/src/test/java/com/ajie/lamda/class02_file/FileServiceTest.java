@@ -1,6 +1,6 @@
 package com.ajie.lamda.class02_file;
 
-import copm.ajie.lamda.class02_flie.FileService;
+import copm.ajie.part_01_lamda.class02_flie.FileService;
 import org.junit.Test;
 
 import java.io.IOException;

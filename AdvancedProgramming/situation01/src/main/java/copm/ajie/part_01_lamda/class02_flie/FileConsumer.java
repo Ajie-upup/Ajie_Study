@@ -1,4 +1,4 @@
-package copm.ajie.lamda.class02_flie;
+package copm.ajie.part_01_lamda.class02_flie;
 
 /**
  * 文件服务类函数式接口

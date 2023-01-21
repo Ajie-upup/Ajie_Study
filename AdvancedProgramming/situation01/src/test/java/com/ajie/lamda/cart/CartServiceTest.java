@@ -1,9 +1,9 @@
 package com.ajie.lamda.cart;
 
 import com.alibaba.fastjson.JSON;
-import copm.ajie.lamda.cart.CartService;
-import copm.ajie.lamda.cart.Sku;
-import copm.ajie.lamda.cart.SkuCategoryEnum;
+import copm.ajie.part_01_lamda.class01_cart.CartService;
+import copm.ajie.part_01_lamda.class01_cart.Sku;
+import copm.ajie.part_01_lamda.class01_cart.SkuCategoryEnum;
 import org.junit.Test;
 
 import java.util.List;
