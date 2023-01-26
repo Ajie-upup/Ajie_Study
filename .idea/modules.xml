@@ -4,13 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ajie_Study.iml" filepath="$PROJECT_DIR$/Ajie_Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArchitectStudy_imooc/ArchitectStudy_imooc.iml" filepath="$PROJECT_DIR$/ArchitectStudy_imooc/ArchitectStudy_imooc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Class-Geek/Class-Geek.iml" filepath="$PROJECT_DIR$/Algorithm/Class-Geek/Class-Geek.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignMode/DesignMode.iml" filepath="$PROJECT_DIR$/DesignMode/DesignMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/class03_SpringBoot.iml" filepath="$PROJECT_DIR$/class03_SpringBoot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/code01_HelloSpring.iml" filepath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/code01_HelloSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataStructure/quarter01-first/quarter01-first.iml" filepath="$PROJECT_DIR$/DataStructure/quarter01-first/quarter01-first.iml" />
     </modules>
   </component>
