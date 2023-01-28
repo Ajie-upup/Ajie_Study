@@ -9,7 +9,7 @@ import java.util.Set;
  * @Description: 兼具大小写的最好英文字母
  * https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/
  */
-public class code01_ {
+public class Day01_ {
     public static void main(String[] args) {
         String s = "arRAzFif";
         String res = greatestLetter(s);
