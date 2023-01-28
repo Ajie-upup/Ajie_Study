@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="class01_JUC" />
-        <module name="code01_HelloSpring" />
         <module name="situation01" />
         <module name="Interview" />
         <module name="class04_SpringBoot" />
@@ -16,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="class03_SpringBoot" target="1.8" />
+      <module name="code01_HelloSpring" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
