@@ -6,7 +6,8 @@ import java.util.List;
 /**
  * @Author: ajie
  * @Date: 2023/1/26
- * @Description: 子集：https://leetcode.cn/problems/subsets/
+ * @Description: 子集
+ * https://leetcode.cn/problems/subsets/
  */
 public class code01_ {
 

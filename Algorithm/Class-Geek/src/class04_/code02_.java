@@ -6,7 +6,8 @@ import java.util.List;
 /**
  * @Author: ajie
  * @Date: 2023/1/26
- * @Description: 组合：https://leetcode.cn/problems/combinations/
+ * @Description: 组合
+ * https://leetcode.cn/problems/combinations/
  */
 public class code02_ {
 

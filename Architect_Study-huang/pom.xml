@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>class01_JUC</module>
+        <module>class04_SpringBoot</module>
     </modules>
 
     <dependencies>

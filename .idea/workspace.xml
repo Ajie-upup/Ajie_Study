@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Daily-Exercise/Daily-Exercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Daily-Exercise/src/part01_/code01_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code03_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Architect_Study-huang/class04_SpringBoot/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code01_.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code01_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code02_.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code02_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/class03_SpringBoot/code01_HelloSpring/code01_HelloSpring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Architect_Study-huang/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Architect_Study-huang/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,7 @@
       <recent name="Mode14_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.part01_.code01_">
+  <component name="RunManager" selected="Application.code03_">
     <configuration name="class01_.group01_array.code01_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01_.group01_array.code01_" />
       <module name="Class-Geek" />
@@ -119,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code01_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code01_" />
+    <configuration name="code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_.code02_" />
       <module name="Class-Geek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="class04_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_.code02_" />
+    <configuration name="code03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_.code03_" />
       <module name="Class-Geek" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code03_" />
         <item itemvalue="Application.part01_.code01_" />
         <item itemvalue="Application.code02_" />
         <item itemvalue="Application.class04_.code01_" />
         <item itemvalue="Application.class01_.group01_array.code01_" />
-        <item itemvalue="Application.code01_" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +231,8 @@
       <workItem from="1674306582592" duration="11000" />
       <workItem from="1674705730285" duration="6246000" />
       <workItem from="1674771130209" duration="8000" />
-      <workItem from="1674818620028" duration="1788000" />
+      <workItem from="1674818620028" duration="4034000" />
+      <workItem from="1674889913523" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -426,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674734778130</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="leetcode：每日一题 Day01：兼具大小写的最好英文字母">
+      <created>1674820446932</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1674820446932</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leetcode：合并两个有序数组，删除有序数组中的重复项，移动零，反转链表" />
     <MESSAGE value="数据结构：复杂度，动态数组实现" />
     <MESSAGE value="设计模式：适配器模式(接口适配器，类的适配器)" />
     <MESSAGE value="设计模式：桥接模式" />
@@ -469,7 +479,8 @@
     <MESSAGE value="Java8 高级特性学习：四种方法引用的使用场景和原理" />
     <MESSAGE value="Java8 高级特性学习：stream流编程学习:常见的中间操作，终端操作，构建流的四种方式，常见的收集器" />
     <MESSAGE value="leetcode:递归，子集，组合" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode:递归，子集，组合" />
+    <MESSAGE value="leetcode：每日一题 Day01：兼具大小写的最好英文字母" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode：每日一题 Day01：兼具大小写的最好英文字母" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
