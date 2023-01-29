@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/Module01_Java_Basic/src/part01_/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/Module01_Java_Basic/src/part01_/code01_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/Module01_Java_Basic/src/part01_/code02_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/Module01_Java_Basic/src/part01_/code03_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/Module01_Java_Basic/src/part02_/FinallyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Daily-Exercise/src/part01_/Day03_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,31 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
-    "go.import.settings.migrated": "true",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/Ajie_Study/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/cart",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.27289546",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "show.run.dashboard.notification": "false",
-    "spring.configuration.checksum": "0d5b71bcd5588d4a05cfb713c0096e02"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ajie_Study/AdvancedProgramming/situation01/src/test/java/com/ajie/lamda/cart&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27289546&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0d5b71bcd5588d4a05cfb713c0096e02&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Ajie_Study\AdvancedProgramming\situation01\src\test\java\com\ajie\lamda\cart" />
@@ -96,9 +90,22 @@
       <recent name="Mode14_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinallyTest">
+  <component name="RunManager" selected="Application.Day03_">
     <configuration name="Day02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part01_.Day02_" />
+      <module name="Daily-Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part01_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part01_.Day03_" />
       <module name="Daily-Exercise" />
       <extension name="coverage">
         <pattern>
@@ -116,19 +123,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="part02_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="class05_.code02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class05_.code02_" />
-      <module name="Class-Geek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class05_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day03_" />
         <item itemvalue="Application.FinallyTest" />
         <item itemvalue="Application.part01_.code03_" />
         <item itemvalue="Application.Day02_" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.class05_.code02_" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +223,8 @@
       <workItem from="1674818620028" duration="4034000" />
       <workItem from="1674889913523" duration="101000" />
       <workItem from="1674903436481" duration="7237000" />
-      <workItem from="1674916267269" duration="1327000" />
+      <workItem from="1674916267269" duration="2129000" />
+      <workItem from="1674985849862" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -448,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674910003299</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="面试题代码：Java中的值传递注意，异常处理finally返回值注意事项">
+      <created>1674919648386</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1674919648386</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +468,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设计模式：桥接模式" />
     <MESSAGE value="设计模式：组合模式(参考文件层次实现)" />
     <MESSAGE value="设计模式：装饰器模式(参考自行车添加组件实现)" />
     <MESSAGE value="Spring入门：pom文件详解，启动类注解探究" />
@@ -491,7 +492,8 @@
     <MESSAGE value="leetcode：每日一题 Day01：兼具大小写的最好英文字母" />
     <MESSAGE value="fix" />
     <MESSAGE value="每日leetcode：二叉树的中序遍历，N 叉树的先序遍历，生成平衡数组的方案数" />
-    <option name="LAST_COMMIT_MESSAGE" value="每日leetcode：二叉树的中序遍历，N 叉树的先序遍历，生成平衡数组的方案数" />
+    <MESSAGE value="面试题代码：Java中的值传递注意，异常处理finally返回值注意事项" />
+    <option name="LAST_COMMIT_MESSAGE" value="面试题代码：Java中的值传递注意，异常处理finally返回值注意事项" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
