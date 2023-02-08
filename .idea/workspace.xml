@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code03_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code04_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code05_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Daily-Exercise/src/part01_/Day04_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Daily-Exercise/src/part01_/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/Class-Geek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class01_/code01_验证回文串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code01_移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code02_盛水最多的容器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code03_爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code04_三数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,20 +99,7 @@
       <recent name="Mode14_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day03_">
-    <configuration name="Day02_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part01_.Day02_" />
-      <module name="Daily-Exercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part01_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.code03_爬楼梯">
     <configuration name="Day03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part01_.Day03_" />
       <module name="Daily-Exercise" />
@@ -125,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part02_.FinallyTest" />
-      <module name="Interview" />
+    <configuration name="code01_验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01_.code01_验证回文串" />
+      <module name="Class-Geek2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part02_.*" />
+          <option name="PATTERN" value="class01_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part01_.code03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part01_.code03_" />
-      <module name="Interview" />
+    <configuration name="code01_移动零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_.code01_移动零" />
+      <module name="Class-Geek2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part01_.*" />
+          <option name="PATTERN" value="class02_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,9 +139,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="Daily-Exercise" />
+    <configuration name="code02_盛水最多的容器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_.code02_盛水最多的容器" />
+      <module name="Class-Geek2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code03_爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_.code03_爬楼梯" />
+      <module name="Class-Geek2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class02_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code03_爬楼梯" />
+        <item itemvalue="Application.code02_盛水最多的容器" />
+        <item itemvalue="Application.code01_移动零" />
+        <item itemvalue="Application.code01_验证回文串" />
         <item itemvalue="Application.Day03_" />
-        <item itemvalue="Application.FinallyTest" />
-        <item itemvalue="Application.part01_.code03_" />
-        <item itemvalue="Application.Day02_" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +241,13 @@
       <workItem from="1674916267269" duration="2129000" />
       <workItem from="1674985849862" duration="2480000" />
       <workItem from="1675054606041" duration="363000" />
-      <workItem from="1675083388198" duration="6922000" />
+      <workItem from="1675083388198" duration="7294000" />
+      <workItem from="1675336025920" duration="204000" />
+      <workItem from="1675486893104" duration="5000" />
+      <workItem from="1675594343765" duration="1355000" />
+      <workItem from="1675704837814" duration="1062000" />
+      <workItem from="1675706139280" duration="5339000" />
+      <workItem from="1675870521350" duration="4731000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -467,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674990095251</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="leetcode每日一题：合并两个链表，二叉树的序列化和反序列化，根据前序遍历和中序遍历求二叉树">
+      <created>1675093487746</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675093487746</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设计模式：装饰器模式(参考自行车添加组件实现)" />
     <MESSAGE value="Spring入门：pom文件详解，启动类注解探究" />
     <MESSAGE value="设计模式：代理模式（参考厂家和零售商）" />
     <MESSAGE value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
@@ -510,7 +529,8 @@
     <MESSAGE value="每日leetcode：二叉树的中序遍历，N 叉树的先序遍历，生成平衡数组的方案数" />
     <MESSAGE value="面试题代码：Java中的值传递注意，异常处理finally返回值注意事项" />
     <MESSAGE value="leetcode每日一题：统计星号" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode每日一题：统计星号" />
+    <MESSAGE value="leetcode每日一题：合并两个链表，二叉树的序列化和反序列化，根据前序遍历和中序遍历求二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode每日一题：合并两个链表，二叉树的序列化和反序列化，根据前序遍历和中序遍历求二叉树" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
