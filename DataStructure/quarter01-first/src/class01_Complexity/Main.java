@@ -1,4 +1,4 @@
-package com.ajie.class01_Complexity;
+package class01_Complexity;
 
 /**
  * 测试斐波那契数列
