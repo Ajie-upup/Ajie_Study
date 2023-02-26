@@ -5,30 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code07_环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code08_环形链表2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code09_K个一组翻转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_括号的分数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_有效括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class05_Quene/code01_用栈实现队列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/Class-Geek.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code01_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code02_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group01_array/code03_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/code01_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class01_/group02_linkedList/code02_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code01_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code02_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code01_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code02_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class04_/code03_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code01_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code02_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code03_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code04_.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek/src/class05_/code05_.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -286,6 +268,10 @@
       <workItem from="1676252827821" duration="65000" />
       <workItem from="1676271672511" duration="88000" />
       <workItem from="1676283893547" duration="3070000" />
+      <workItem from="1676597464914" duration="3000" />
+      <workItem from="1677061651456" duration="119000" />
+      <workItem from="1677067859372" duration="2130000" />
+      <workItem from="1677377355535" duration="3714000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
