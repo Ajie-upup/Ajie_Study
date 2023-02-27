@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_括号的分数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_有效括号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class05_Quene/code01_用栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class00_Others/code01_中缀表达式转后缀表达式.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +95,13 @@
       <recent name="Mode14_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code04_三数之和">
-    <configuration name="Day03_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part01_.Day03_" />
-      <module name="Daily-Exercise" />
+  <component name="RunManager" selected="Application.code01_中缀表达式转后缀表达式">
+    <configuration name="_逆波兰表达式求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_Stack._逆波兰表达式求值" />
+      <module name="quarter01-first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part01_.*" />
+          <option name="PATTERN" value="class04_Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code01_验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_.code01_验证回文串" />
-      <module name="Class-Geek2" />
+    <configuration name="code01_中缀表达式转后缀表达式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class00_Others.code01_中缀表达式转后缀表达式" />
+      <module name="quarter01-first" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_.*" />
+          <option name="PATTERN" value="class00_Others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code01_中缀表达式转后缀表达式" />
+        <item itemvalue="Application._逆波兰表达式求值" />
         <item itemvalue="Application.code04_三数之和" />
         <item itemvalue="Application.code03_爬楼梯" />
         <item itemvalue="Application.code02_盛水最多的容器" />
-        <item itemvalue="Application.code01_验证回文串" />
-        <item itemvalue="Application.Day03_" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +269,9 @@
       <workItem from="1676597464914" duration="3000" />
       <workItem from="1677061651456" duration="119000" />
       <workItem from="1677067859372" duration="2130000" />
-      <workItem from="1677377355535" duration="3714000" />
+      <workItem from="1677377355535" duration="3778000" />
+      <workItem from="1677458829590" duration="2134000" />
+      <workItem from="1677464065154" duration="3172000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -525,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676216617910</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="leetcode:括号的分数，用栈实现队列">
+      <created>1677385725023</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677385725023</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设计模式：外观模式（参考消息推送，封装细节，外部调用统一接口即可）" />
     <MESSAGE value="设计模式：享元模式（参考外包实现网站与公司的映射，参考池化技术）" />
     <MESSAGE value="设计模式：策略模式（参考电商价格优惠折扣策略）" />
     <MESSAGE value="设计模式：模板模式（参考项目开发流程定义大致流程，交由各具体模块实现）" />
@@ -568,7 +574,8 @@
     <MESSAGE value="leetcode每日一题：合并两个链表，二叉树的序列化和反序列化，根据前序遍历和中序遍历求二叉树" />
     <MESSAGE value="2.9/leetcode" />
     <MESSAGE value="leetcode: 三数之和,反转链表,两两交换链表中的节点" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode: 三数之和,反转链表,两两交换链表中的节点" />
+    <MESSAGE value="leetcode:括号的分数，用栈实现队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode:括号的分数，用栈实现队列" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
@@ -581,6 +588,11 @@
           <url>file://$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code01_.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataStructure/quarter01-first/src/class00_Others/code01_中缀表达式转后缀表达式.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
