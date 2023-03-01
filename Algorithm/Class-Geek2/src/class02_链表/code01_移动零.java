@@ -1,4 +1,4 @@
-package class02_;
+package class02_链表;
 
 import java.util.Arrays;
 

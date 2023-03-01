@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class00_Others/code01_中缀表达式转后缀表达式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code09_K个一组翻转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class03_加餐/code01_删除有序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class03_加餐/code02_轮转数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class06_树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class06_树/code01_二叉树的中序遍历.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_基本计算器.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/quarter01-first/src/class04_Stack/_逆波兰表达式求值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code01_移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code01_移动零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code02_盛水最多的容器.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code02_盛水最多的容器.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code03_爬楼梯.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code03_爬楼梯.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code04_三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code04_三数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code05_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code05_反转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code06_两两交换链表中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code06_两两交换链表中的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code07_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code07_环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code08_环形链表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code08_环形链表2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code09_K个一组翻转链表.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +107,7 @@
       <recent name="Mode14_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code01_中缀表达式转后缀表达式">
+  <component name="RunManager" selected="Application.code02_轮转数组">
     <configuration name="_逆波兰表达式求值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class04_Stack._逆波兰表达式求值" />
       <module name="quarter01-first" />
@@ -135,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_盛水最多的容器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code02_盛水最多的容器" />
+    <configuration name="code02_轮转数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class03_加餐.code02_轮转数组" />
       <module name="Class-Geek2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="class03_加餐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +161,11 @@
       </method>
     </configuration>
     <configuration name="code03_爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code03_爬楼梯" />
+      <option name="MAIN_CLASS_NAME" value="class02_链表.code03_爬楼梯" />
       <module name="Class-Geek2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="class02_链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +174,11 @@
       </method>
     </configuration>
     <configuration name="code04_三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_.code04_三数之和" />
+      <option name="MAIN_CLASS_NAME" value="class02_链表.code04_三数之和" />
       <module name="Class-Geek2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_.*" />
+          <option name="PATTERN" value="class02_链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code02_轮转数组" />
         <item itemvalue="Application.code01_中缀表达式转后缀表达式" />
         <item itemvalue="Application._逆波兰表达式求值" />
         <item itemvalue="Application.code04_三数之和" />
         <item itemvalue="Application.code03_爬楼梯" />
-        <item itemvalue="Application.code02_盛水最多的容器" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +283,11 @@
       <workItem from="1677067859372" duration="2130000" />
       <workItem from="1677377355535" duration="3778000" />
       <workItem from="1677458829590" duration="2134000" />
-      <workItem from="1677464065154" duration="3172000" />
+      <workItem from="1677464065154" duration="3591000" />
+      <workItem from="1677469280002" duration="1615000" />
+      <workItem from="1677545484869" duration="2206000" />
+      <workItem from="1677591466044" duration="7000" />
+      <workItem from="1677634209676" duration="5711000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -532,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677385725023</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="leetcode:逆波兰表达式，基本计算器，中缀表达式转后缀表达式">
+      <created>1677468026399</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677468026399</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设计模式：享元模式（参考外包实现网站与公司的映射，参考池化技术）" />
     <MESSAGE value="设计模式：策略模式（参考电商价格优惠折扣策略）" />
     <MESSAGE value="设计模式：模板模式（参考项目开发流程定义大致流程，交由各具体模块实现）" />
     <MESSAGE value="设计模式：观察者模式（参考消息发送，接收响应）" />
@@ -575,7 +597,8 @@
     <MESSAGE value="2.9/leetcode" />
     <MESSAGE value="leetcode: 三数之和,反转链表,两两交换链表中的节点" />
     <MESSAGE value="leetcode:括号的分数，用栈实现队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode:括号的分数，用栈实现队列" />
+    <MESSAGE value="leetcode:逆波兰表达式，基本计算器，中缀表达式转后缀表达式" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode:逆波兰表达式，基本计算器，中缀表达式转后缀表达式" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
@@ -588,11 +611,6 @@
           <url>file://$PROJECT_DIR$/Algorithm/Class-Geek/src/class02_/code01_.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DataStructure/quarter01-first/src/class00_Others/code01_中缀表达式转后缀表达式.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
