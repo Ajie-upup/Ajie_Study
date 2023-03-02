@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b22528-54a4-44de-b0a6-bdcceef1df32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code09_K个一组翻转链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class03_加餐/code01_删除有序数组中的重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class03_加餐/code02_轮转数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class06_树/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class06_树/code01_二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class07_迭代和递归/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class07_迭代和递归/code01_爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class07_迭代和递归/code02_括号生成.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class07_迭代和递归/code03_翻转二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code01_移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code01_移动零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code02_盛水最多的容器.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code02_盛水最多的容器.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code03_爬楼梯.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code03_爬楼梯.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code04_三数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code04_三数之和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code05_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code05_反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code06_两两交换链表中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code06_两两交换链表中的节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code07_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code07_环形链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code08_环形链表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_链表/code08_环形链表2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Class-Geek2/src/class02_/code09_K个一组翻转链表.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +276,8 @@
       <workItem from="1677469280002" duration="1615000" />
       <workItem from="1677545484869" duration="2206000" />
       <workItem from="1677591466044" duration="7000" />
-      <workItem from="1677634209676" duration="5711000" />
+      <workItem from="1677634209676" duration="7291000" />
+      <workItem from="1677717422799" duration="4977000" />
     </task>
     <task id="LOCAL-00001" summary="导入设计模式">
       <created>1672466005988</created>
@@ -555,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677468026399</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="leetcode:k个一组翻转链表,删除有序数组的重复项">
+      <created>1677639996053</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677639996053</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="设计模式：策略模式（参考电商价格优惠折扣策略）" />
     <MESSAGE value="设计模式：模板模式（参考项目开发流程定义大致流程，交由各具体模块实现）" />
     <MESSAGE value="设计模式：观察者模式（参考消息发送，接收响应）" />
     <MESSAGE value="leetcode: 统计「优美子数组」(一维前缀和数组应用)，二维区域和检索(二维前缀和数组运用，注意空间防止数组越界问题)" />
@@ -598,7 +594,8 @@
     <MESSAGE value="leetcode: 三数之和,反转链表,两两交换链表中的节点" />
     <MESSAGE value="leetcode:括号的分数，用栈实现队列" />
     <MESSAGE value="leetcode:逆波兰表达式，基本计算器，中缀表达式转后缀表达式" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode:逆波兰表达式，基本计算器，中缀表达式转后缀表达式" />
+    <MESSAGE value="leetcode:k个一组翻转链表,删除有序数组的重复项" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode:k个一组翻转链表,删除有序数组的重复项" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
